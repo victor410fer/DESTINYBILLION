@@ -33,7 +33,7 @@ python scan.py
 
 # Test GitHub connection
 ./github_test.sh
----
+```
 
 🤖 GitHub Actions
 
