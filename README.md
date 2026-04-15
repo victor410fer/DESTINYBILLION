@@ -47,9 +47,9 @@ View Actions: https://github.com/lonelyk757-art/security-test/actions
 
 ## 📊 Repository Stats
 
-https://img.shields.io/github/last-commit/lonelyk757-art/security-test
-https://img.shields.io/github/repo-size/lonelyk757-art/security-test
-https://img.shields.io/github/license/lonelyk757-art/security-test
+![GitHub last commit](https://img.shields.io/github/last-commit/lonelyk757-art/security-test)
+![GitHub repo size](https://img.shields.io/github/repo-size/lonelyk757-art/security-test)
+![GitHub License](https://img.shields.io/github/license/lonelyk757-art/security-test)
 
 ## 🛠️ Development
 
