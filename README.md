@@ -35,7 +35,7 @@ python scan.py
 ./github_test.sh
 ```
 
-🤖 GitHub Actions
+## 🤖 GitHub Actions
 
 This repository uses GitHub Actions for automated testing. The workflow:
 
@@ -45,13 +45,13 @@ This repository uses GitHub Actions for automated testing. The workflow:
 
 View Actions: https://github.com/lonelyk757-art/security-test/actions
 
-📊 Repository Stats
+## 📊 Repository Stats
 
 https://img.shields.io/github/last-commit/lonelyk757-art/security-test
 https://img.shields.io/github/repo-size/lonelyk757-art/security-test
 https://img.shields.io/github/license/lonelyk757-art/security-test
 
-🛠️ Development
+## 🛠️ Development
 
 All development is done from Termux on Android:
 
@@ -60,7 +60,7 @@ All development is done from Termux on Android:
 · Bash and Python scripting
 · GitHub Actions for CI/CD
 
-📝 License
+## 📝 License
 
 This project is open source and available under the MIT License.
 
